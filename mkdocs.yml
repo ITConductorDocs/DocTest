@@ -3,3 +3,4 @@ site_name: ITC Test MkDocs
 theme: readthedocs
 
 repo_url: https://github.com/ITConductorDocs/DocTest.git
+edit_uri: docs
