@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
+This line is added from CHINGLAMYUNG
+
 sample image. stored on same directory.
 ![](./schedule.jpg)
 
