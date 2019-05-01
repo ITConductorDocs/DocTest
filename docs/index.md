@@ -3,6 +3,7 @@
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 This line is added from CHINGLAMYUNG
+This line is added from BROWSER
 
 sample image. stored on same directory.
 ![](./schedule.jpg)
