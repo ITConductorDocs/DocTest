@@ -5,6 +5,9 @@ Created by
 
 [Too Choong](/people/5b7619017825cb0653519756?ref=confluence&src=profilecard)
 
+
+This sentence is added from GitHub.
+
 Last updated [Sep 24, 2018](/wiki/pages/diffpagesbyversion.action?pageId=597262458&selectedPageVersions=13&selectedPageVersions=14)
 
 This guide will take you through the process of creating a report using the ITC Process Viewer (the report needs to be in a Process in order for it tone scheduled). The Process can then be scheduled to run in a time slot as defined in the ITC Scheduler. When the scheduled run is completed, the report will be send to the receivers as configured during the report creation.  
